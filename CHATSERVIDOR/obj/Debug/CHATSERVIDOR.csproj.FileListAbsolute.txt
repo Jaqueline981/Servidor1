@@ -1,0 +1,6 @@
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\bin\Debug\CHATSERVIDOR.exe
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\bin\Debug\CHATSERVIDOR.pdb
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\obj\Debug\CHATSERVIDOR.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\obj\Debug\CHATSERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\obj\Debug\CHATSERVIDOR.exe
+C:\Users\Fernández Maldonado\source\repos\CHATSERVIDOR\CHATSERVIDOR\obj\Debug\CHATSERVIDOR.pdb
